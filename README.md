@@ -34,6 +34,9 @@ npm install @fortawesome/fontawesome-free  --save-dev
 
 npm install axios --save-dev | yarn add axios --dev
 
+composer require symfony/ux-turbo
+npm install --force ||  yarn install --force
+
 
 
 
