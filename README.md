@@ -29,6 +29,10 @@ npm install @fortawesome/fontawesome-free @fortawesome/free-brands-svg-icons @fo
 In case bootstrap is not found:
 ls node_modules/bootstrap/dist/css
 npm install bootstrap --save-dev
+npm install @fontsource/roboto-condensed --save-dev
+npm install @fortawesome/fontawesome-free  --save-dev
+
+npm install axios --save-dev | yarn add axios --dev
 
 
 
