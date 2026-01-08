@@ -6,4 +6,9 @@ composer require endroid/qr-code
 
 composer require symfony/webpack-encore-bundle
 
+npm install
+
+npm run build
+
+
 
