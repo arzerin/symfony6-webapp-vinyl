@@ -17,11 +17,19 @@ composer require symfony/stimulus-bundle
 npm run watch | yarn watch
 
 
-yarn add bootstrap --dev | npm add bootstrap --include=dev
+npm add bootstrap --include=dev | yarn add bootstrap --dev
 
 npm add @fontsource/roboto-condensed --include=dev | yarn add @fontsource/roboto-condensed --dev
 
 
 npm add @fortawesome/fontawesome-free --include=dev | yarn add @fortawesome/fontawesome-free --dev
+
+npm install @fortawesome/fontawesome-free @fortawesome/free-brands-svg-icons @fortawesome/free-regular-svg-icons @fortawesome/free-solid-svg-icons -D
+
+In case bootstrap is not found:
+ls node_modules/bootstrap/dist/css
+npm install bootstrap --save-dev
+
+
 
 
