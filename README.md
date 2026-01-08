@@ -17,7 +17,11 @@ composer require symfony/stimulus-bundle
 npm run watch | yarn watch
 
 
-yarn add bootstrap --dev
-npm add bootstrap --include=dev
+yarn add bootstrap --dev | npm add bootstrap --include=dev
+
+npm add @fontsource/roboto-condensed --include=dev | yarn add @fontsource/roboto-condensed --dev
+
+
+npm add @fortawesome/fontawesome-free --include=dev | yarn add @fortawesome/fontawesome-free --dev
 
 
