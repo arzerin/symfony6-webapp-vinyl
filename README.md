@@ -13,5 +13,11 @@ npm run build
 
 composer require symfony/stimulus-bundle
 
+# running webpack
+npm run watch | yarn watch
+
+
+yarn add bootstrap --dev
+npm add bootstrap --include=dev
 
 
