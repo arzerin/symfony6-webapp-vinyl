@@ -11,4 +11,7 @@ npm install
 npm run build
 
 
+composer require symfony/stimulus-bundle
+
+
 
